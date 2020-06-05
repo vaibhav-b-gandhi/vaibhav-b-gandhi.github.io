@@ -1,0 +1,36 @@
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+#nav-header {
+	border-radius: 0px;
+	background-color: grey;
+	border: 0px
+}
+
+#brand-name {
+	color: black;
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.7em;
+	text-align: center;
+	background-color: lightgrey;
+	margin: 10px 0 0 0;
+	font-weight: bold;
+}
+
+
+p {
+	margin-top: 0px;
+	font-size: 1.3em;
+	background-color: lightgrey;
+	padding: 10px;
+}
+
+#nav-list {
+	color: black;
+	text-align: center;
+	background-color: white;
+}
